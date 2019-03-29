@@ -1,0 +1,4 @@
+game_server_path: /path/to/local/repository
+game_client_path: /path/to/local/repository
+site_server_path: /path/to/local/repository
+slack_token: nao_bot_token
